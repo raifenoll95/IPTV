@@ -12,4 +12,12 @@
     <display-name lang="es">La2</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="ClanTV">
+    <display-name lang="es">ClanTV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="24H">
+    <display-name lang="es">24H</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
