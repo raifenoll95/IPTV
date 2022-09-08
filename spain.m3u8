@@ -40,6 +40,11 @@ http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/15246/index.m3u8
 http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/15248/index.m3u8
 #EXTINF:-1 tvg-id="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="C. de Madrid" tvg-name="BeMad"
 http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/15247/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-300x300.jpg" group-title="C. de Madrid" tvg-name="La Liga HD"
+http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6073/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-logo="https://cdn.sincroguia.tv/uploads/images/1/k/u/xdazn.jpg.pagespeed.ic.aAtE5-BNU0.jpg" group-title="C. de Madrid" tvg-name="DAZN F1"
+http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6071/index.m3u8
+
 
 
 
