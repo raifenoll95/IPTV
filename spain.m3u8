@@ -34,6 +34,12 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 http://myott.top/stream/P4H2M76YRH/176.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://www.varnalan.com/wp-content/uploads/2018/07/es2hd.png" group-title="C. de Madrid" tvg-name="Eurosport2"
 http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6556/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Atreseries_2015.svg/revision/latest?cb=20200629150117&path-prefix=es" group-title="C. de Madrid" tvg-name="A3Series"
+http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/15246/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://photos.live-tv-channels.org/tv-logo/es-real-madrid-tv-8842.jpg" group-title="C. de Madrid" tvg-name="Real Madrid CF TV"
+http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/15248/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="C. de Madrid" tvg-name="BeMad"
+http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/15247/index.m3u8
 
 
 
