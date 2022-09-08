@@ -4,4 +4,8 @@
     <display-name lang="es">TDP</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="La1">
+    <display-name lang="es">La1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
