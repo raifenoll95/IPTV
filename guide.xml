@@ -24,8 +24,8 @@
     <display-name lang="es">Telemadrid.TV</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="F1">
-    <display-name lang="es">F1</display-name>
+  <channel id="BeinSports">
+    <display-name lang="es">BeinSports</display-name>
     <url>http://www.plus.es</url>
   </channel>
 </tv>
