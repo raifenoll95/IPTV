@@ -2,3 +2,6 @@
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:-1 tvg-id="La1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Informativos" tvg-name="La1",La 1
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Informativos" tvg-name="La2",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
