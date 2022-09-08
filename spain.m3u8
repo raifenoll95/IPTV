@@ -30,6 +30,8 @@ http://ott-serveur.com:8000/937388595669676/744370120217993/236866
 http://ott-serveur.com:8000/937388595669676/744370120217993/236865
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://freepressinfo.com/wp-content/uploads/2021/10/fdf_circular_500_-2_8dd4.png" group-title="C. de Madrid" tvg-name="FDF",FDF
 http://ott-serveur.com:8000/937388595669676/744370120217993/236860
+#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://pbs.twimg.com/profile_images/1341302466223202305/8jcsg5ue_400x400.jpg" group-title="C. de Madrid" tvg-name="NEOX",NEOX
+http://ott.riotelecomm.es:4512/m3u8/NEOX.m3u8
 
 
 
