@@ -54,6 +54,15 @@ http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
 https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
 #EXTINF:-1 tvg-id="28" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="C. de Madrid" tvg-name="Divinity"
 https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="https://i.pinimg.com/474x/31/3f/e9/313fe9d6b23607650cc1dead6d32174e.jpg" group-title="C. de Madrid" tvg-name="Cartoon Network"
+http://45.232.210.1:8062/play/a09m/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="https://i.pinimg.com/564x/8e/ea/d1/8eead1704aa7317b67859510be6a2b32--disney-junior-imagination.jpg" group-title="C. de Madrid" tvg-name="Disney Junior"
+http://45.232.210.1:8062/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="C. de Madrid" tvg-name="Disney Channel"
+http://45.232.210.1:8062/play/a08n/index.m3u8
+
+
+
 
 
 
