@@ -12,4 +12,6 @@ https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 tvg-id="BeinSports" tvg-logo="https://1.bp.blogspot.com/-0fO2vyo6q8E/Xx04o3GH4CI/AAAAAAAAKK8/9FFlvpxDIqobx6BtrQmyEcEkUItb28jBQCLcBGAsYHQ/s1600/watch-bein-sports-xtra-live-streaming-buzz-news-tunisia.jpg" group-title="C. de Madrid" tvg-name="BeinSports",Bein Sports
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" group-title="C. de Madrid" tvg-name="Eurosport1",Eurosport1
+http://myott.top/stream/P4H2M76YRH/176.m3u8
 
