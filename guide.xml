@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="TDP">
-    <display-name lang="es">TDP</display-name>
-    <url>http://www.plus.es</url>
-  </channel>
   <channel id="1">
     <display-name lang="es">1</display-name>
     <url>http://www.plus.es</url>
@@ -28,12 +24,16 @@
     <display-name lang="es">6</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="ClanTV">
-    <display-name lang="es">ClanTV</display-name>
+  <channel id="7">
+    <display-name lang="es">7</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="24H">
-    <display-name lang="es">24H</display-name>
+  <channel id="8">
+    <display-name lang="es">8</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="9">
+    <display-name lang="es">9</display-name>
     <url>http://www.plus.es</url>
   </channel>
   <channel id="Telemadrid.TV">
