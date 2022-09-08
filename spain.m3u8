@@ -1,21 +1,21 @@
 #EXTINF:-1 tvg-id="TDP" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Informativos" tvg-name="1",La 1
+#EXTINF:-1 tvg-id="1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Informativos" tvg-name="La 1"
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Informativos" tvg-name="2",La 2
+#EXTINF:-1 tvg-id="2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Informativos" tvg-name="La 2",
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXS52ESsIfM5zBXE6IL2jzpZ9ylIVuAf9DMh6iqQU49b4X3Xx-2mpZyev-dU3OCjCRJ0&usqp=CAU" group-title="C. de Madrid" tvg-name="3",Antena3
+#EXTINF:-1 tvg-id="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXS52ESsIfM5zBXE6IL2jzpZ9ylIVuAf9DMh6iqQU49b4X3Xx-2mpZyev-dU3OCjCRJ0&usqp=CAU" group-title="C. de Madrid" tvg-name="Antena3"
 http://ott-serveur.com:8000/937388595669676/744370120217993/166065
-#EXTINF:-1 tvg-id="4" tvg-logo="https://seeklogo.com/images/C/cuatro-tv-logo-801A71C174-seeklogo.com.png" group-title="C. de Madrid" tvg-name="4",Cuatro
+#EXTINF:-1 tvg-id="4" tvg-logo="https://seeklogo.com/images/C/cuatro-tv-logo-801A71C174-seeklogo.com.png" group-title="C. de Madrid" tvg-name="Cuatro"
 http://ott-serveur.com:8000/937388595669676/744370120217993/236886
-#EXTINF:-1 tvg-id="5" tvg-logo="https://media.revistagq.com/photos/606190cf443504ce325d024f/1:1/w_1080,h_1080,c_limit/15409900086535.jpg" group-title="C. de Madrid" tvg-name="5",Telecinco
+#EXTINF:-1 tvg-id="5" tvg-logo="https://media.revistagq.com/photos/606190cf443504ce325d024f/1:1/w_1080,h_1080,c_limit/15409900086535.jpg" group-title="C. de Madrid" tvg-name="Telecinco"
 http://ott-serveur.com:8000/937388595669676/744370120217993/236884
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i.pinimg.com/originals/bd/33/1c/bd331c762029c216e45382f57e6e8059.jpg" group-title="C. de Madrid" tvg-name="6",LaSexta
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.pinimg.com/originals/bd/33/1c/bd331c762029c216e45382f57e6e8059.jpg" group-title="C. de Madrid" tvg-name="LaSexta"
 http://ott-serveur.com:8000/937388595669676/744370120217993/236881
-#EXTINF:-1 tvg-id="ClanTV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Informativos" tvg-name="ClanTV",Clan TV
-https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-id="24H" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24H",24 H
 https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="ClanTV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Informativos" tvg-name="ClanTV",Clan TV
+https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 tvg-id="BeinSports" tvg-logo="https://1.bp.blogspot.com/-0fO2vyo6q8E/Xx04o3GH4CI/AAAAAAAAKK8/9FFlvpxDIqobx6BtrQmyEcEkUItb28jBQCLcBGAsYHQ/s1600/watch-bein-sports-xtra-live-streaming-buzz-news-tunisia.jpg" group-title="C. de Madrid" tvg-name="BeinSports",Bein Sports
