@@ -48,4 +48,20 @@
     <display-name lang="es">LaSexta</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="DKISS">
+    <display-name lang="es">DKISS</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Mega">
+    <display-name lang="es">Mega</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Energy">
+    <display-name lang="es">Energy</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="FDF">
+    <display-name lang="es">FDF</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
