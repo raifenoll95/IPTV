@@ -71,5 +71,17 @@
   <channel id="18">
     <display-name lang="es">18</display-name>
     <url>http://www.plus.es</url>
+  </channel>
+  <channel id="19">
+    <display-name lang="es">19</display-name>
+    <url>http://www.plus.es</url>
+  </channel>  
+  <channel id="20">
+    <display-name lang="es">20</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="21">
+    <display-name lang="es">21</display-name>
+    <url>http://www.plus.es</url>
   </channel>  
 </tv>
