@@ -60,6 +60,28 @@ http://45.232.210.1:8062/play/a09m/index.m3u8
 http://45.232.210.1:8062/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="C. de Madrid" tvg-name="Disney Channel"
 http://45.232.210.1:8062/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png" group-title="C. de Madrid" tvg-name="Tennis Channel"
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/369
+
+
+#EXTINF:-1 tvg-id="33" tvg-name="Movistar Acción" tvg-chno="732" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.XAU9P3nHew.jpg" group-title="España", Movistar Acción
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3576
+
+#EXTINF:-1 tvg-id="34" tvg-name="Movistar Comedia" tvg-chno="732" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.Pgg7NiIrIU.jpg" group-title="España", Movistar Comedia
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3577
+
+#EXTINF:-1 tvg-id="35" tvg-name="Movistar Fest" tvg-chno="732" tvg-logo="https://cdn.sincroguia.tv/uploads/images/1/z/b/xmovistar-fest.jpg.pagespeed.ic.TF7uDehatO.jpg" group-title="España", Movistar Fest
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3579
+
+#EXTINF:-1 tvg-id="36" tvg-name="Movistar Drama" tvg-chno="732" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.CCSz56TBeI.jpg" group-title="España", Movistar Drama
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3580
+
+#EXTINF:-1 tvg-id="37" tvg-name="Movistar Estrenos" tvg-chno="732" tvg-logo="https://cdn.sincroguia.tv/uploads/images/3/d/m/xmovistar-estrenos.jpg.pagespeed.ic.BOSA8Ldz9P.jpg" group-title="España", Movistar Estrenos
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3581
+
+#EXTINF:-1 tvg-id="38" tvg-name="Movistar Series" tvg-chno="732" tvg-logo="https://pbs.twimg.com/profile_images/1483748647766528005/yq8iwt7w_400x400.png" group-title="España", Movistar Series
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3582
+
 
 
 
