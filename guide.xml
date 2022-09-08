@@ -36,36 +36,36 @@
     <display-name lang="es">9</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="Telemadrid.TV">
-    <display-name lang="es">Telemadrid.TV</display-name>
+  <channel id="10">
+    <display-name lang="es">10</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="BeinSports">
-    <display-name lang="es">BeinSports</display-name>
+  <channel id="11">
+    <display-name lang="es">11</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="Eurosport1">
-    <display-name lang="es">Eurosport1</display-name>
+  <channel id="12">
+    <display-name lang="es">12</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="DKISS">
-    <display-name lang="es">DKISS</display-name>
+  <channel id="13">
+    <display-name lang="es">13</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="Mega">
-    <display-name lang="es">Mega</display-name>
+  <channel id="14">
+    <display-name lang="es">14</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="Energy">
-    <display-name lang="es">Energy</display-name>
+  <channel id="15">
+    <display-name lang="es">15</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="FDF">
-    <display-name lang="es">FDF</display-name>
+  <channel id="16">
+    <display-name lang="es">16</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="NEOX">
-    <display-name lang="es">NEOX</display-name>
+  <channel id="17">
+    <display-name lang="es">17</display-name>
     <url>http://www.plus.es</url>
-  </channel>
+  </channel>  
 </tv>
