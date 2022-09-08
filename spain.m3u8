@@ -28,11 +28,11 @@ http://ott-serveur.com:8000/937388595669676/744370120217993/236866
 http://ott-serveur.com:8000/937388595669676/744370120217993/236865
 #EXTINF:-1 tvg-id="15" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid"
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-logo="https://play-lh.googleusercontent.com/o-oOYP5kpMt8cdWjnAgWV1PPs3Te8OQbILBPsGyKEib3JhkMNiptKoocoC_7i7tJJgMY" group-title="C. de Madrid" tvg-name="BeinSports"
+#EXTINF:-1 tvg-id="16" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="C. de Madrid" tvg-name="BeinSports"
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="C. de Madrid" tvg-name="Eurosport1"
 http://myott.top/stream/P4H2M76YRH/176.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png" group-title="C. de Madrid" tvg-name="Eurosport2"
+#EXTINF:-1 tvg-id="18" tvg-logo="https://www.varnalan.com/wp-content/uploads/2018/07/es2hd.png" group-title="C. de Madrid" tvg-name="Eurosport2"
 http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6556/index.m3u8
 
 
