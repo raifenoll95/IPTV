@@ -156,4 +156,8 @@
     <display-name lang="es">39</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="40">
+    <display-name lang="es">40</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
