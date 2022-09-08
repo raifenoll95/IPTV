@@ -28,4 +28,8 @@
     <display-name lang="es">BeinSports</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="Eurosport1">
+    <display-name lang="es">Eurosport1</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
