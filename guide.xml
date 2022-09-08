@@ -124,4 +124,32 @@
     <display-name lang="es">31</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="32">
+    <display-name lang="es">32</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="33">
+    <display-name lang="es">33</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="34">
+    <display-name lang="es">34</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="35">
+    <display-name lang="es">35</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="36">
+    <display-name lang="es">36</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="37">
+    <display-name lang="es">37</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="38">
+    <display-name lang="es">38</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
