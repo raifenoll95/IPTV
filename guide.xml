@@ -32,4 +32,20 @@
     <display-name lang="es">Eurosport1</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="Antena3">
+    <display-name lang="es">Antena3</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Cuatro">
+    <display-name lang="es">Cuatro</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Telecinco">
+    <display-name lang="es">Telecinco</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LaSexta">
+    <display-name lang="es">LaSexta</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
