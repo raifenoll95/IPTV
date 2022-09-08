@@ -16,22 +16,24 @@ https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-id="9" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte"
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:-1 tvg-id="BeinSports" tvg-logo="https://1.bp.blogspot.com/-0fO2vyo6q8E/Xx04o3GH4CI/AAAAAAAAKK8/9FFlvpxDIqobx6BtrQmyEcEkUItb28jBQCLcBGAsYHQ/s1600/watch-bein-sports-xtra-live-streaming-buzz-news-tunisia.jpg" group-title="C. de Madrid" tvg-name="BeinSports",Bein Sports
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" group-title="C. de Madrid" tvg-name="Eurosport1",Eurosport1
-http://myott.top/stream/P4H2M76YRH/176.m3u8
-#EXTINF:-1 tvg-id="Mega" tvg-logo="https://cableunion.es/assets/base/img/tv/cineseries/21.jpg" group-title="C. de Madrid" tvg-name="Mega",Mega
-http://ott-serveur.com:8000/937388595669676/744370120217993/236868
-#EXTINF:-1 tvg-id="Energy" tvg-logo="https://www.formulatv.com/images/noticias/22800/22845/2.jpg" group-title="C. de Madrid" tvg-name="Energy",Energy
-http://ott-serveur.com:8000/937388595669676/744370120217993/236866
-#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.dkiss.es/wp-content/uploads/favicon.png" group-title="C. de Madrid" tvg-name="DKISS",DKISS
-http://ott-serveur.com:8000/937388595669676/744370120217993/236865
-#EXTINF:-1 tvg-id="FDF" tvg-logo="https://freepressinfo.com/wp-content/uploads/2021/10/fdf_circular_500_-2_8dd4.png" group-title="C. de Madrid" tvg-name="FDF",FDF
-http://ott-serveur.com:8000/937388595669676/744370120217993/236860
-#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://pbs.twimg.com/profile_images/1341302466223202305/8jcsg5ue_400x400.jpg" group-title="C. de Madrid" tvg-name="NEOX",NEOX
+#EXTINF:-1 tvg-id="10" tvg-logo="https://pbs.twimg.com/profile_images/1341302466223202305/8jcsg5ue_400x400.jpg" group-title="C. de Madrid" tvg-name="NEOX"
 http://ott.riotelecomm.es:4512/m3u8/NEOX.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://cableunion.es/assets/base/img/tv/cineseries/21.jpg" group-title="C. de Madrid" tvg-name="Mega"
+http://ott-serveur.com:8000/937388595669676/744370120217993/236868
+#EXTINF:-1 tvg-id="12" tvg-logo="https://freepressinfo.com/wp-content/uploads/2021/10/fdf_circular_500_-2_8dd4.png" group-title="C. de Madrid" tvg-name="FDF"
+http://ott-serveur.com:8000/937388595669676/744370120217993/236860
+#EXTINF:-1 tvg-id="13" tvg-logo="https://www.formulatv.com/images/noticias/22800/22845/2.jpg" group-title="C. de Madrid" tvg-name="Energy"
+http://ott-serveur.com:8000/937388595669676/744370120217993/236866
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.dkiss.es/wp-content/uploads/favicon.png" group-title="C. de Madrid" tvg-name="DKISS"
+http://ott-serveur.com:8000/937388595669676/744370120217993/236865
+#EXTINF:-1 tvg-id="15" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid"
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo="https://1.bp.blogspot.com/-0fO2vyo6q8E/Xx04o3GH4CI/AAAAAAAAKK8/9FFlvpxDIqobx6BtrQmyEcEkUItb28jBQCLcBGAsYHQ/s1600/watch-bein-sports-xtra-live-streaming-buzz-news-tunisia.jpg" group-title="C. de Madrid" tvg-name="BeinSports"
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="C. de Madrid" tvg-name="Eurosport1"
+http://myott.top/stream/P4H2M76YRH/176.m3u8
+
+
 
 
 
