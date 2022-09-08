@@ -14,4 +14,15 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" group-title="C. de Madrid" tvg-name="Eurosport1",Eurosport1
 http://myott.top/stream/P4H2M76YRH/176.m3u8
+#EXTINF:-1 tvg-id="Antena3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXS52ESsIfM5zBXE6IL2jzpZ9ylIVuAf9DMh6iqQU49b4X3Xx-2mpZyev-dU3OCjCRJ0&usqp=CAU" group-title="C. de Madrid" tvg-name="Antena3",Antena3
+http://ott-serveur.com:8000/937388595669676/744370120217993/166065
+#EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="C. de Madrid" tvg-name="Cuatro",Cuatro
+http://ott-serveur.com:8000/937388595669676/744370120217993/236886
+#EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_logo_500_-1_c0eb.png" group-title="C. de Madrid" tvg-name="Telecinco",Telecinco
+http://ott-serveur.com:8000/937388595669676/744370120217993/236884
+#EXTINF:-1 tvg-id="LaSexta" tvg-logo="https://i.pinimg.com/originals/bd/33/1c/bd331c762029c216e45382f57e6e8059.jpg" group-title="C. de Madrid" tvg-name="LaSexta",LaSexta
+http://ott-serveur.com:8000/937388595669676/744370120217993/236881
+
+
+
 
