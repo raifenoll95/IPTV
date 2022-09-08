@@ -8,4 +8,8 @@
     <display-name lang="es">La1</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="La2">
+    <display-name lang="es">La2</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
