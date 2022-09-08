@@ -96,4 +96,20 @@
     <display-name lang="es">24</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="25">
+    <display-name lang="es">25</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="26">
+    <display-name lang="es">26</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="27">
+    <display-name lang="es">27</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="28">
+    <display-name lang="es">28</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
