@@ -4,4 +4,9 @@ https://ztnr.rtve.es/ztnr/1712295.m3u8
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Informativos" tvg-name="La2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="ClanTV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Informativos" tvg-name="ClanTV",Clan TV
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="24H" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24H",24 H
+https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
+
 
