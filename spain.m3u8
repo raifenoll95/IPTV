@@ -46,6 +46,17 @@ http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6073/index.m3u8
 http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6071/index.m3u8
 #EXTINF:-1 tvg-id="24" tvg-logo="https://i.pinimg.com/originals/ae/cf/db/aecfdbdacdfae9ecf99de5f73fe8c210.jpg" group-title="C. de Madrid" tvg-name="MTV Hits"
 http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/153/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="C. de Madrid" tvg-name="Boing"
+https://livek.mediaset.es/orilinear23/live/linear23/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
+#EXTINF:-1 tvg-id="26" tvg-logo="https://pbs.twimg.com/profile_images/2645319751/ea6aa473f8ff2298e2e8bdaa141fdb5a_400x400.png" group-title="C. de Madrid" tvg-name="Cosmo"
+http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
+#EXTINF:-1 tvg-id="27" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="C. de Madrid" tvg-name="Canal Sur Andalucia"
+https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
+#EXTINF:-1 tvg-id="28" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="C. de Madrid" tvg-name="Divinity"
+https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
+
+
+
 
 
 
