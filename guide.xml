@@ -64,4 +64,8 @@
     <display-name lang="es">FDF</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="NEOX">
+    <display-name lang="es">NEOX</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
