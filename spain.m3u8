@@ -10,5 +10,7 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1 tvg-id="F1" tvg-logo="https://cdn.sincroguia.tv/uploads/images/1/k/u/xdazn.jpg.pagespeed.ic.aAtE5-BNU0.jpg" group-title="C. de Madrid" tvg-name="F1",F1
+http://154.54.220.247:51323/play/a03d/index.m3u8
 
 
