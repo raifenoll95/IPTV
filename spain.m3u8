@@ -1,86 +1,19 @@
-#EXTINF:-1 tvg-id="1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Informativos" tvg-name="La 1"
-https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Informativos" tvg-name="La 2",
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXS52ESsIfM5zBXE6IL2jzpZ9ylIVuAf9DMh6iqQU49b4X3Xx-2mpZyev-dU3OCjCRJ0&usqp=CAU" group-title="C. de Madrid" tvg-name="Antena3"
-http://ott-serveur.com:8000/937388595669676/744370120217993/166065
-#EXTINF:-1 tvg-id="4" tvg-logo="https://seeklogo.com/images/C/cuatro-tv-logo-801A71C174-seeklogo.com.png" group-title="C. de Madrid" tvg-name="Cuatro"
-http://ott-serveur.com:8000/937388595669676/744370120217993/236886
-#EXTINF:-1 tvg-id="5" tvg-logo="https://media.revistagq.com/photos/606190cf443504ce325d024f/1:1/w_1080,h_1080,c_limit/15409900086535.jpg" group-title="C. de Madrid" tvg-name="Telecinco"
-http://ott-serveur.com:8000/937388595669676/744370120217993/236884
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i.pinimg.com/originals/bd/33/1c/bd331c762029c216e45382f57e6e8059.jpg" group-title="C. de Madrid" tvg-name="LaSexta"
-http://ott-serveur.com:8000/937388595669676/744370120217993/236881
-#EXTINF:-1 tvg-id="7" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24H"
-https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Informativos" tvg-name="ClanTV"
-https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:-1 tvg-id="9" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte"
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1 tvg-id="10" tvg-logo="https://pbs.twimg.com/profile_images/1341302466223202305/8jcsg5ue_400x400.jpg" group-title="C. de Madrid" tvg-name="NEOX"
-http://ott.riotelecomm.es:4512/m3u8/NEOX.m3u8
-#EXTINF:-1 tvg-id="11" tvg-logo="https://cableunion.es/assets/base/img/tv/cineseries/21.jpg" group-title="C. de Madrid" tvg-name="Mega"
-http://ott-serveur.com:8000/937388595669676/744370120217993/236868
-#EXTINF:-1 tvg-id="12" tvg-logo="https://freepressinfo.com/wp-content/uploads/2021/10/fdf_circular_500_-2_8dd4.png" group-title="C. de Madrid" tvg-name="FDF"
-http://ott-serveur.com:8000/937388595669676/744370120217993/236860
-#EXTINF:-1 tvg-id="13" tvg-logo="https://www.formulatv.com/images/noticias/22800/22845/2.jpg" group-title="C. de Madrid" tvg-name="Energy"
-http://ott-serveur.com:8000/937388595669676/744370120217993/236866
-#EXTINF:-1 tvg-id="14" tvg-logo="https://www.dkiss.es/wp-content/uploads/favicon.png" group-title="C. de Madrid" tvg-name="DKISS"
-http://ott-serveur.com:8000/937388595669676/744370120217993/236865
-#EXTINF:-1 tvg-id="15" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid"
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="C. de Madrid" tvg-name="BeinSports"
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-id="17" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="C. de Madrid" tvg-name="Eurosport1"
-http://myott.top/stream/P4H2M76YRH/176.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="https://www.varnalan.com/wp-content/uploads/2018/07/es2hd.png" group-title="C. de Madrid" tvg-name="Eurosport2"
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6556/index.m3u8
-#EXTINF:-1 tvg-id="19" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Atreseries_2015.svg/revision/latest?cb=20200629150117&path-prefix=es" group-title="C. de Madrid" tvg-name="A3Series"
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/15246/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/twitter-image.png" group-title="C. de Madrid" tvg-name="Real Madrid CF TV"
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/15248/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="C. de Madrid" tvg-name="BeMad"
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/15247/index.m3u8
-#EXTINF:-1 tvg-id="22" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-300x300.jpg" group-title="C. de Madrid" tvg-name="La Liga HD"
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6073/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-logo="https://cdn.sincroguia.tv/uploads/images/1/k/u/xdazn.jpg.pagespeed.ic.aAtE5-BNU0.jpg" group-title="C. de Madrid" tvg-name="DAZN F1"
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/6071/index.m3u8
-#EXTINF:-1 tvg-id="24" tvg-logo="https://i.pinimg.com/originals/ae/cf/db/aecfdbdacdfae9ecf99de5f73fe8c210.jpg" group-title="C. de Madrid" tvg-name="MTV Hits"
-http://4c636933.edemist.com/iptv/U6RKR58T6QX8TH/153/index.m3u8
-#EXTINF:-1 tvg-id="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="C. de Madrid" tvg-name="Boing"
-https://livek.mediaset.es/orilinear23/live/linear23/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
-#EXTINF:-1 tvg-id="26" tvg-logo="https://pbs.twimg.com/profile_images/2645319751/ea6aa473f8ff2298e2e8bdaa141fdb5a_400x400.png" group-title="C. de Madrid" tvg-name="Cosmo"
-http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
-#EXTINF:-1 tvg-id="27" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="C. de Madrid" tvg-name="Canal Sur Andalucia"
-https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
-#EXTINF:-1 tvg-id="28" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="C. de Madrid" tvg-name="Divinity"
-https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
-#EXTINF:-1 tvg-id="29" tvg-logo="https://i.pinimg.com/474x/31/3f/e9/313fe9d6b23607650cc1dead6d32174e.jpg" group-title="C. de Madrid" tvg-name="Cartoon Network"
-http://45.232.210.1:8062/play/a09m/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-logo="https://i.pinimg.com/564x/8e/ea/d1/8eead1704aa7317b67859510be6a2b32--disney-junior-imagination.jpg" group-title="C. de Madrid" tvg-name="Disney Junior"
-http://45.232.210.1:8062/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-logo="https://brandlogos.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="C. de Madrid" tvg-name="Disney Channel"
-http://45.232.210.1:8062/play/a08n/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png" group-title="C. de Madrid" tvg-name="Tennis Channel"
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/369
+#Radios
 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.radio.es/images/broadcasts/8b/a9/118558/1/c300.png" group-title="Radios" tvg-name="KISS FM"
+https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3?wmsAuthSign=c2VydmVyX3RpbWU9MDkvMDkvMjAyMiAxMjowODowOSBQTSZoYXNoX3ZhbHVlPU1Ubzh1OXk5aFhkVDVrVWI1UTdzY0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNzE4OTU0Nw==
 
-#EXTINF:-1 tvg-id="33" tvg-name="Movistar Acción" tvg-chno="732" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.XAU9P3nHew.jpg" group-title="España", Movistar Acción
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3576
+#EXTINF:-1 tvg-id="2" tvg-logo="https://ipmark.com/wp-content/uploads/2020/03/Yomequedoencasa.png" group-title="Radios" tvg-name="Los 40"
+https://25643.live.streamtheworld.com/LOS40.mp3
 
-#EXTINF:-1 tvg-id="34" tvg-name="Movistar Comedia" tvg-chno="732" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.Pgg7NiIrIU.jpg" group-title="España", Movistar Comedia
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3577
+#EXTINF:-1 tvg-id="3" tvg-logo="https://radiofy.online/wp-content/uploads/2019/01/Logo-Rock-FM-online-en-directo.jpg" group-title="Radios" tvg-name="Rock FM"
+https://flucast-m04-04.flumotion.com/cope/rockfm.mp3
 
-#EXTINF:-1 tvg-id="35" tvg-name="Movistar Fest" tvg-chno="732" tvg-logo="https://cdn.sincroguia.tv/uploads/images/1/z/b/xmovistar-fest.jpg.pagespeed.ic.TF7uDehatO.jpg" group-title="España", Movistar Fest
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3579
+#EXTINF:-1 tvg-id="4" tvg-logo="https://myradioonline.es/public/uploads/radio_img/cadena-100/play_250_250.png" group-title="Radios" tvg-name="Cadena 100"
+https://cadena100-cope.flumotion.com/chunks.m3u8
 
-#EXTINF:-1 tvg-id="36" tvg-name="Movistar Drama" tvg-chno="732" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.CCSz56TBeI.jpg" group-title="España", Movistar Drama
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3580
-
-#EXTINF:-1 tvg-id="37" tvg-name="Movistar Estrenos" tvg-chno="732" tvg-logo="https://cdn.sincroguia.tv/uploads/images/3/d/m/xmovistar-estrenos.jpg.pagespeed.ic.BOSA8Ldz9P.jpg" group-title="España", Movistar Estrenos
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3581
-
-#EXTINF:-1 tvg-id="38" tvg-name="Movistar Series" tvg-chno="732" tvg-logo="https://pbs.twimg.com/profile_images/1483748647766528005/yq8iwt7w_400x400.png" group-title="España", Movistar Series
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3582
+#EXTINF:-1 tvg-id="5" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/L6GkAPcT26.png" group-title="Radios" tvg-name="Cadena Dial"
+https://25683.live.streamtheworld.com/CADENADIALAAC.aac
 
 #EXTINF:-1 tvg-id="39" tvg-name="RadioAspe" tvg-chno="732" tvg-logo="https://scontent.falc2-2.fna.fbcdn.net/v/t31.18172-8/10580758_1130792506952623_316882021123097879_o.jpg?stp=dst-jpg_p526x296&_nc_cat=109&ccb=1-7&_nc_sid=9267fe&_nc_ohc=A-kAQzFHcX4AX8d85jA&_nc_ht=scontent.falc2-2.fna&oh=00_AT-IIRM0EArhek5Cnyb66HkOaS5gmdUzAc8aFVjBph2BHw&oe=634097AE" group-title="España", RadioAspe
 http://streaming.enantena.com:8000/radioaspe128.mp3?hash=1450217145457.mp3
