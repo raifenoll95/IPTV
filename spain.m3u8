@@ -10,7 +10,7 @@ https://25643.live.streamtheworld.com/LOS40.mp3
 https://flucast-m04-04.flumotion.com/cope/rockfm.mp3
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://myradioonline.es/public/uploads/radio_img/cadena-100/play_250_250.png" group-title="Radios" tvg-name="Cadena 100"
-https://cadena100-cope.flumotion.com/chunks.m3u8
+https://cadena100-cope.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/L6GkAPcT26.png" group-title="Radios" tvg-name="Cadena Dial"
 https://25683.live.streamtheworld.com/CADENADIALAAC.aac
