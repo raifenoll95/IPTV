@@ -6,10 +6,10 @@ https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 #EXTINF:-1 tvg-id="2" tvg-logo="https://ipmark.com/wp-content/uploads/2020/03/Yomequedoencasa.png" group-title="Radios" tvg-name="Los 40"
 https://25643.live.streamtheworld.com/LOS40.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://los40.com/player/playlist/images/Portada_Dance_500x500.jpeg" group-title="Radios" tvg-name="Los 40 Dance"
+#EXTINF:-1 tvg-id=3 tvg-logo="https://los40.com/player/playlist/images/Portada_Dance_500x500.jpeg" group-title="Radios" tvg-name="Los 40 Dance"
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC_SC
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnByaXNhcmFkaW8ucmVwbGljYXBwLm04MF9pY29uXzE1NDM3NDYzOTBfMDkw/icon.png?w=&fakeurl=1" group-title="Radios" tvg-name="Los 40 Classic"
+#EXTINF:-1 tvg-id="4" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnByaXNhcmFkaW8ucmVwbGljYXBwLm04MF9pY29uXzE1NDM3NDYzOTBfMDkw/icon.png?w=&fakeurl=1" group-title="Radios" tvg-name="Los 40 Classic"
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC_SC
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://radiofy.online/wp-content/uploads/2019/01/Logo-Rock-FM-online-en-directo.jpg" group-title="Radios" tvg-name="Rock FM"

@@ -8,12 +8,12 @@
     <display-name lang="es">2</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="">
-    <display-name lang="es">3</display-name>
+  <channel id="3">
+    <display-name lang="es"></display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="">
-    <display-name lang="es">4</display-name>
+  <channel id="4">
+    <display-name lang="es"></display-name>
     <url>http://www.plus.es</url>
   </channel>
   <channel id="5">
