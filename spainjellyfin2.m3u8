@@ -69,11 +69,15 @@ http://s02.fjperezdj.com:8055/live
 #EXTINF:-1 tvg-id="22" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/75/30/34196/1/c300.png" group-title="Radios" tvg-name="Loca FM Drum N Bass"
 http://s02.fjperezdj.com:8065/live
 
+#EXTINF:-1 tvg-id="23" tvg-logo="https://www.uoc.edu/portal/_resources/common/imatges/universitat/organitzacio/espai-rector/mitjans/catalunya-radio.png" group-title="Radios" tvg-name="Catalunya Radio"
+https://directes-radio-int.ccma.cat/live-content/catalunya-radio-hls/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/urjccVZ9Yj.jpg" group-title="Radios" tvg-name="Hot FM Radio"
+https://streaming.broadcastradio.com:11815/hotfm962
+
 #EXTINF:-1 tvg-id="38" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="TV" tvg-name="Eurosport"
 https://ed-t1.icetoot.me/plyvivo/6u7ek08ece2ekasaki6o/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="39" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/75/30/34196/1/c300.png" group-title="Radios" tvg-name="Loca FM Drum N Bass"
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 
 
 
