@@ -6,10 +6,13 @@ https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 #EXTINF:-1 tvg-id="2" tvg-logo="https://ipmark.com/wp-content/uploads/2020/03/Yomequedoencasa.png" group-title="Radios" tvg-name="Los 40"
 https://25643.live.streamtheworld.com/LOS40.mp3
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://radiofy.online/wp-content/uploads/2019/01/Logo-Rock-FM-online-en-directo.jpg" group-title="Radios" tvg-name="Rock FM"
+#EXTINF:-1 tvg-id="3" tvg-logo="https://los40.com/player/playlist/images/Portada_Dance_500x500.jpeg" group-title="Radios" tvg-name="Los 40 Dance"
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC_SC
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://radiofy.online/wp-content/uploads/2019/01/Logo-Rock-FM-online-en-directo.jpg" group-title="Radios" tvg-name="Rock FM"
 https://flucast-m04-04.flumotion.com/cope/rockfm.mp3
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://myradioonline.es/public/uploads/radio_img/cadena-100/play_250_250.png" group-title="Radios" tvg-name="Cadena 100"
+#EXTINF:-1 tvg-id="5" tvg-logo="https://myradioonline.es/public/uploads/radio_img/cadena-100/play_250_250.png" group-title="Radios" tvg-name="Cadena 100"
 https://cadena100-cope.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/L6GkAPcT26.png" group-title="Radios" tvg-name="Cadena Dial"
@@ -21,17 +24,19 @@ http://streaming.enantena.com:8000/radioaspe128.mp3?hash=1450217145457.mp3
 #EXTINF:-1 tvg-id="40" tvg-name="MuyBuena" tvg-logo="https://www.emisorasmusicales.net/wp-content/uploads/2020/03/MuyBuena.png" group-title="España", MuyBuena
 https://stream.mediasector.es/radio/8010/muybuena-vlc.mp3
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://play-lh.googleusercontent.com/IrbC4CmRRabYOxNyXU_skteI0B1cO4Zqv3hdG_gR6XFBquG31I2moQRAwSgIk-xGxok" group-title="Radios" tvg-name="Cadena SER"
+#EXTINF:-1 tvg-id="7" tvg-logo="https://play-lh.googleusercontent.com/IrbC4CmRRabYOxNyXU_skteI0B1cO4Zqv3hdG_gR6XFBquG31I2moQRAwSgIk-xGxok" group-title="Radios" tvg-name="Cadena SER"
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC_SC
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://cdn-profiles.tunein.com/s9752/images/logog.png?t=153858" group-title="Radios" tvg-name="Radio Nacional"
+#EXTINF:-1 tvg-id="8" tvg-logo="https://cdn-profiles.tunein.com/s9752/images/logog.png?t=153858" group-title="Radios" tvg-name="Radio Nacional"
 https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-logo="http://static-1.ivoox.com/radios/0/4/0/3/6371460973040_XXL.jpg" group-title="Radios" tvg-name="COPE"
+#EXTINF:-1 tvg-id="9" tvg-logo="http://static-1.ivoox.com/radios/0/4/0/3/6371460973040_XXL.jpg" group-title="Radios" tvg-name="COPE"
 https://flucast-b05-02.flumotion.com/cope/net2.mp3
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://play-lh.googleusercontent.com/4_7_4vTd1xleWVVPtGrlzh2WEGy-PWKNxAcJKY7To31fV6Pr63jBo8xU6niSwc1xGDu_" group-title="Radios" tvg-name="Radio MARCA"
+#EXTINF:-1 tvg-id="10" tvg-logo="https://play-lh.googleusercontent.com/4_7_4vTd1xleWVVPtGrlzh2WEGy-PWKNxAcJKY7To31fV6Pr63jBo8xU6niSwc1xGDu_" group-title="Radios" tvg-name="Radio MARCA"
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC_SC
+
+
 
 
 
