@@ -45,6 +45,11 @@ https://flucast-b05-02.flumotion.com/cope/net2.mp3
 #EXTINF:-1 tvg-id="15" tvg-logo="https://play-lh.googleusercontent.com/4_7_4vTd1xleWVVPtGrlzh2WEGy-PWKNxAcJKY7To31fV6Pr63jBo8xU6niSwc1xGDu_" group-title="Radios" tvg-name="Radio MARCA"
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC_SC
 
+#EXTINF:-1 tvg-id="16" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="TV" tvg-name="Eurosport"
+http://a1b18661.kazaktelekom.com/iptv/SGQ4DAUHLPAVU5/228/index.m3u8
+
+
+
 
 
 
