@@ -70,7 +70,10 @@ http://s02.fjperezdj.com:8055/live
 http://s02.fjperezdj.com:8065/live
 
 #EXTINF:-1 tvg-id="38" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="TV" tvg-name="Eurosport"
-https://s1.a1b2c3d.xyz/live/2cEBhu2InM_SD/index.m3u8
+https://ed-t1.icetoot.me/plyvivo/6u7ek08ece2ekasaki6o/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/75/30/34196/1/c300.png" group-title="Radios" tvg-name="Loca FM Drum N Bass"
+http://s02.fjperezdj.com:8065/live
 
 
 
