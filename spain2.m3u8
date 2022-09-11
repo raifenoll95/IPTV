@@ -1,7 +1,7 @@
 #Radios
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.radio.es/images/broadcasts/8b/a9/118558/1/c300.png" group-title="Radios" tvg-name="KISS FM"
-https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3?wmsAuthSign=c2VydmVyX3RpbWU9MDkvMDkvMjAyMiAxMjowODowOSBQTSZoYXNoX3ZhbHVlPU1Ubzh1OXk5aFhkVDVrVWI1UTdzY0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNzE4OTU0Nw==
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://ipmark.com/wp-content/uploads/2020/03/Yomequedoencasa.png" group-title="Radios" tvg-name="Los 40"
 https://25643.live.streamtheworld.com/LOS40.mp3
@@ -21,13 +21,16 @@ http://streaming.enantena.com:8000/radioaspe128.mp3?hash=1450217145457.mp3
 #EXTINF:-1 tvg-id="40" tvg-name="MuyBuena" tvg-logo="https://www.emisorasmusicales.net/wp-content/uploads/2020/03/MuyBuena.png" group-title="España", MuyBuena
 https://stream.mediasector.es/radio/8010/muybuena-vlc.mp3
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/e6xdJAvSZu.png" group-title="Radios" tvg-name="Cadena SER"
+#EXTINF:-1 tvg-id="6" tvg-logo="https://play-lh.googleusercontent.com/IrbC4CmRRabYOxNyXU_skteI0B1cO4Zqv3hdG_gR6XFBquG31I2moQRAwSgIk-xGxok" group-title="Radios" tvg-name="Cadena SER"
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC_SC
 
-#EXTINF:-1 tvg-id="7" tvg-logo="http://static-1.ivoox.com/radios/0/4/0/3/6371460973040_XXL.jpg" group-title="Radios" tvg-name="COPE"
+#EXTINF:-1 tvg-id="7" tvg-logo="https://cdn-profiles.tunein.com/s9752/images/logog.png?t=153858" group-title="Radios" tvg-name="Radio Nacional"
+https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="http://static-1.ivoox.com/radios/0/4/0/3/6371460973040_XXL.jpg" group-title="Radios" tvg-name="COPE"
 https://flucast-b05-02.flumotion.com/cope/net2.mp3
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://play-lh.googleusercontent.com/4_7_4vTd1xleWVVPtGrlzh2WEGy-PWKNxAcJKY7To31fV6Pr63jBo8xU6niSwc1xGDu_" group-title="Radios" tvg-name="Radio MARCA"
+#EXTINF:-1 tvg-id="9" tvg-logo="https://play-lh.googleusercontent.com/4_7_4vTd1xleWVVPtGrlzh2WEGy-PWKNxAcJKY7To31fV6Pr63jBo8xU6niSwc1xGDu_" group-title="Radios" tvg-name="Radio MARCA"
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC_SC
 
 
