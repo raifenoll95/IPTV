@@ -9,7 +9,7 @@ https://25643.live.streamtheworld.com/LOS40.mp3
 #EXTINF:-1 tvg-id="3" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Am2GshnhNz.jpg" group-title="Radios" tvg-name="Los 40 Dance"
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC_SC
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://los40es00.epimg.net/los40/imagenes/2020/04/14/los40urban/1586862151_831392_1586868815_noticia_normal.jpg" group-title="Radios" tvg-name="Ke Buena"
+#EXTINF:-1 tvg-id="4" tvg-logo="https://los40es00.epimg.net/los40/imagenes/2020/04/14/los40urban/1586862151_831392_1586868815_noticia_normal.jpg" group-title="Radios" tvg-name="Los 40 Urban"
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA_ESAAC_SC
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnByaXNhcmFkaW8ucmVwbGljYXBwLm04MF9pY29uXzE1NDM3NDYzOTBfMDkw/icon.png?w=&fakeurl=1" group-title="Radios" tvg-name="Los 40 Classic"
