@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="LA 1 HD">
+    <display-name lang="es">LA 1 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="la2.es">
+    <display-name lang="es">la2.es</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="ANTENA 3 HD">
+    <display-name lang="es">ANTENA 3 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CUATRO HD">
+    <display-name lang="es">CUATRO HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="TELECINCO HD">
+    <display-name lang="es">TELECINCO HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LA SEXTA HD">
+    <display-name lang="es">LA SEXTA HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="Atreseries HD">
+    <display-name lang="es">Atreseries HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NEOX FHD">
+    <display-name lang="es">NEOX FHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NOVA">
+    <display-name lang="es">NOVA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="DIVINITY">
+    <display-name lang="es">DIVINITY</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="factoriaficcion.es">
+    <display-name lang="es">factoriaficcion.es</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
   <channel id="1">
     <display-name lang="es">1</display-name>
     <url>http://www.plus.es</url>

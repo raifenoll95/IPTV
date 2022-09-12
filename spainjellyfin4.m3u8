@@ -1,4 +1,41 @@
+#TV
+
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="TDT",LA 1 HD 720P
+http://toritodigital.com:8080/Javicunao/7bqfmqRKjYAn/4786
+
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="TDT",LA 2 HD 720P
+http://toritodigital.com:8080/Javicunao/7bqfmqRKjYAn/4789
+
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="TDT",ANTENA 3 HD 720P
+http://toritodigital.com:8080/Javicunao/7bqfmqRKjYAn/4792
+
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD 720P" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TDT",CUATRO HD 720P
+http://toritodigital.com:8080/Javicunao/7bqfmqRKjYAn/4795
+
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="TDT",TELECINCO HD 720P
+http://toritodigital.com:8080/Javicunao/7bqfmqRKjYAn/4798
+
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="TDT",LA SEXTA HD 720P
+http://toritodigital.com:8080/Javicunao/7bqfmqRKjYAn/4801
+
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ATRESERIES HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="TDT",ATRESERIES HD 720P
+
+#EXTINF:-1 tvg-id="NEOX FHD" tvg-name="NEOX HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="TDT",NEOX HD 720P
+http://toritodigital.com:8080/Javicunao/7bqfmqRKjYAn/4812
+
+#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2880px-Nova.svg.png" group-title="TDT",NOVA HD 720P
+http://toritodigital.com:8080/Javicunao/7bqfmqRKjYAn/4815
+
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="TDT",DIVINITY HD 720P
+http://toritodigital.com:8080/Javicunao/7bqfmqRKjYAn/4821
+
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FDF HD 720P" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="TDT",FDF HD 720P
+http://toritodigital.com:8080/Javicunao/7bqfmqRKjYAn/4824
+
+
 #Radios
+
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.radio.es/images/broadcasts/8b/a9/118558/1/c300.png" group-title="Radios" tvg-name="KISS FM"
 https://kissfm.kissfmradio.cires21.com/kissfm.mp3
