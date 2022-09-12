@@ -44,6 +44,146 @@
     <display-name lang="es">factoriaficcion.es</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="Mega HD">
+    <display-name lang="es">Mega HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. SERIES HD">
+    <display-name lang="es">M. SERIES HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. SERIES 2 HD">
+    <display-name lang="es">M. SERIES 2 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="La Resistencia">
+    <display-name lang="es">La Resistencia</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. ACCION HD">
+    <display-name lang="es">M. ACCION HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="movistarestrenos.es">
+    <display-name lang="es">movistarestrenos.es</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. ESTRENOS 2 HD">
+    <display-name lang="es">M. ESTRENOS 2 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. CLÁSICOS HD">
+    <display-name lang="es">M. CLÁSICOS HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MOVISTAR COMEDIA HD 720P">
+    <display-name lang="es">MOVISTAR COMEDIA HD 720P</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DRAMA HD">
+    <display-name lang="es">M. DRAMA HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="es">FOX HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="es">AXN HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="COMEDYCENTRAL HD">
+    <display-name lang="es">COMEDYCENTRAL HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CALLE 13 HD">
+    <display-name lang="es">CALLE 13 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="COSMO HD">
+    <display-name lang="es">COSMO HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="DAZN LaLigaHD">
+    <display-name lang="es">DAZN LaLigaHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. LaLiga HD">
+    <display-name lang="es">M. LaLiga HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LALIGATV BAR">
+    <display-name lang="es">LALIGATV BAR</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="LaLiga SmartbankTV">
+    <display-name lang="es">LaLiga SmartbankTV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="#VAMOS HD">
+    <display-name lang="es">#VAMOS HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="gol.es">
+    <display-name lang="es">gol.es</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. DEPORTE HD">
+    <display-name lang="es">M. DEPORTE HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="DAZN F1 HD">
+    <display-name lang="es">DAZN F1 HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="M. GOLF HD">
+    <display-name lang="es">M. GOLF HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="EUROSPORT1HD">
+    <display-name lang="es">EUROSPORT1HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="EUROSPORT2HD">
+    <display-name lang="es">EUROSPORT2HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="R. MADRID TV">
+    <display-name lang="es">R. MADRID TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BARCA TV">
+    <display-name lang="es">BARCA TV</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="clantve.es">
+    <display-name lang="es">clantve.es</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="BOING">
+    <display-name lang="es">BOING</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="disneyjunior.es">
+    <display-name lang="es">disneyjunior.es</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="NICKELODEON FHD">
+    <display-name lang="es">NICKELODEON FHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="disney.es">
+    <display-name lang="es">disney.es</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CANAL COCINA FHD">
+    <display-name lang="es">CANAL COCINA FHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="CANAL DECASA">
+    <display-name lang="es">CANAL DECASA</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
   <channel id="1">
     <display-name lang="es">1</display-name>
     <url>http://www.plus.es</url>
