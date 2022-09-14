@@ -184,6 +184,22 @@
     <display-name lang="es">CANAL DECASA</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="M.LCAMPEONES HD">
+    <display-name lang="es">M.LCAMPEONES HD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MOVISTAR LIGA DE CAMPEONES 2 HD 1080P">
+    <display-name lang="es">MOVISTAR LIGA DE CAMPEONES 2 HD 1080P</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MOVISTAR LIGA DE CAMPEONES 3 HD 1080P">
+    <display-name lang="es">MOVISTAR LIGA DE CAMPEONES 3 HD 1080P</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="MOVISTAR LIGA DE CAMPEONES 4 HD 1080P">
+    <display-name lang="es">MOVISTAR LIGA DE CAMPEONES 4 HD 1080P</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
   <channel id="1">
     <display-name lang="es">1</display-name>
     <url>http://www.plus.es</url>
