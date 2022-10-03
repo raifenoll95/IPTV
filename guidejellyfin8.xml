@@ -196,8 +196,8 @@
     <display-name lang="es">MOVISTAR LIGA DE CAMPEONES 3 HD 1080P</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="MOVISTAR LIGA DE CAMPEONES 4 HD 1080P">
-    <display-name lang="es">MOVISTAR LIGA DE CAMPEONES 4 HD 1080P</display-name>
+  <channel id="fox">
+    <display-name lang="es">fox</display-name>
     <url>http://www.plus.es</url>
   </channel>
   <channel id="1">
@@ -358,6 +358,18 @@
   </channel>
   <channel id="40">
     <display-name lang="es">40</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="41">
+    <display-name lang="es">41</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="42">
+    <display-name lang="es">42</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
+  <channel id="43">
+    <display-name lang="es">43</display-name>
     <url>http://www.plus.es</url>
   </channel>
 </tv>
