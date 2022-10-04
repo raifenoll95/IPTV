@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="LA 1 HD">
-    <display-name lang="es">LA 1 HD</display-name>
+  <channel id="mligadecampeones.es">
+    <display-name lang="es">ES| M+ LIGA DE CAMPEONES FHD</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="la2.es">
-    <display-name lang="es">la2.es</display-name>
+  <channel id="mligadecampeones1.es">
+    <display-name lang="es">ES| M+ LIGA DE CAMPEONES 1 FHD</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="ANTENA 3 HD">
-    <display-name lang="es">ANTENA 3 HD</display-name>
+  <channel id="mligadecampeones2.es">
+    <display-name lang="es">ES| M+ LIGA DE CAMPEONES 2 FHD</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="CUATRO HD">
-    <display-name lang="es">CUATRO HD</display-name>
+  <channel id="2hd">
+    <display-name lang="es">ES| M+ LIGA DE CAMPEONES 3 FHD</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="TELECINCO HD">
-    <display-name lang="es">TELECINCO HD</display-name>
+  <channel id="mlaliga9.es">
+    <display-name lang="es">ES| M+ LIGA DE CAMPEONES 4 FHD</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="LA SEXTA HD">
-    <display-name lang="es">LA SEXTA HD</display-name>
+  <channel id="sasasas">
+    <display-name lang="es">ES| M+ LIGA DE Campeones 5 FHD</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="Atreseries HD">
-    <display-name lang="es">Atreseries HD</display-name>
+  <channel id="dsdsds">
+    <display-name lang="es">ES| M+ LIGA DE Campeones 6 FHD</display-name>
     <url>http://www.plus.es</url>
   </channel>
   <channel id="NEOX FHD">

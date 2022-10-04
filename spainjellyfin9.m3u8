@@ -1,0 +1,138 @@
+#TV
+
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN FHD",ES| M+ LIGA DE CAMPEONES FHD
+http://etc12.xyz:900/5140733881/6786337208/187582
+
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN FHD",ES| M+ LIGA DE CAMPEONES 1 FHD
+http://etc12.xyz:900/5140733881/6786337208/187583
+
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN FHD",ES| M+ LIGA DE CAMPEONES 2 FHD
+http://etc12.xyz:900/5140733881/6786337208/187584
+
+#EXTINF:-1 tvg-id="2hd" tvg-name="ES| M+ LIGA DE CAMPEONES 3 FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_10.png" group-title="EU | SPAIN FHD",ES| M+ LIGA DE CAMPEONES 3 FHD
+http://etc12.xyz:900/5140733881/6786337208/187563
+
+#EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="ES| M+ LIGA DE CAMPEONES 4 FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_9.png" group-title="EU | SPAIN FHD",ES| M+ LIGA DE CAMPEONES 4 FHD
+http://etc12.xyz:900/5140733881/6786337208/187562
+
+#EXTINF:-1 tvg-id="sasasas" tvg-name="ES| M+ LIGA DE Campeones 5 FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN FHD",ES| M+ LIGA DE Campeones 5 FHD
+http://etc12.xyz:900/5140733881/6786337208/400407282
+
+#EXTINF:-1 tvg-id="dsdsds" tvg-name="ES| M+ LIGA DE Campeones 6 FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN FHD",ES| M+ LIGA DE Campeones 6 FHD
+http://etc12.xyz:900/5140733881/6786337208/400407281
+
+
+
+#Radios
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.radio.es/images/broadcasts/8b/a9/118558/1/c300.png" group-title="Radios" tvg-name="KISS FM"
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://ipmark.com/wp-content/uploads/2020/03/Yomequedoencasa.png" group-title="Radios" tvg-name="Los 40"
+https://25643.live.streamtheworld.com/LOS40.mp3
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Am2GshnhNz.jpg" group-title="Radios" tvg-name="Los 40 Dance"
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC_SC
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://los40es00.epimg.net/los40/imagenes/2020/04/14/los40urban/1586862151_831392_1586868815_noticia_normal.jpg" group-title="Radios" tvg-name="Los 40 Urban"
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA_ESAAC_SC
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnByaXNhcmFkaW8ucmVwbGljYXBwLm04MF9pY29uXzE1NDM3NDYzOTBfMDkw/icon.png?w=&fakeurl=1" group-title="Radios" tvg-name="Los 40 Classic"
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC_SC
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://radiofy.online/wp-content/uploads/2019/01/Logo-Rock-FM-online-en-directo.jpg" group-title="Radios" tvg-name="Rock FM"
+https://flucast-m04-04.flumotion.com/cope/rockfm.mp3
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://myradioonline.es/public/uploads/radio_img/cadena-100/play_250_250.png" group-title="Radios" tvg-name="Cadena 100"
+https://cadena100-cope.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/L6GkAPcT26.png" group-title="Radios" tvg-name="Cadena Dial"
+https://25683.live.streamtheworld.com/CADENADIALAAC.aac
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e4/c6/e4c6cdc3-22aa-4f9e-a6e0-9715c77cd39b.jpg" group-title="Radios" tvg-name="Europa FM"
+https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="RadioAspe" tvg-logo="https://scontent.falc2-2.fna.fbcdn.net/v/t31.18172-8/10580758_1130792506952623_316882021123097879_o.jpg?stp=dst-jpg_p526x296&_nc_cat=109&ccb=1-7&_nc_sid=9267fe&_nc_ohc=A-kAQzFHcX4AX8d85jA&_nc_ht=scontent.falc2-2.fna&oh=00_AT-IIRM0EArhek5Cnyb66HkOaS5gmdUzAc8aFVjBph2BHw&oe=634097AE" group-title="España", RadioAspe
+http://streaming.enantena.com:8000/radioaspe128.mp3?hash=1450217145457.mp3
+
+#EXTINF:-1 tvg-id="11" tvg-name="MuyBuena" tvg-logo="https://www.emisorasmusicales.net/wp-content/uploads/2020/03/MuyBuena.png" group-title="España", MuyBuena
+https://stream.mediasector.es/radio/8010/muybuena-vlc.mp3
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://play-lh.googleusercontent.com/IrbC4CmRRabYOxNyXU_skteI0B1cO4Zqv3hdG_gR6XFBquG31I2moQRAwSgIk-xGxok" group-title="Radios" tvg-name="Cadena SER"
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC_SC
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://cdn-profiles.tunein.com/s9752/images/logog.png?t=153858" group-title="Radios" tvg-name="Radio Nacional"
+https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://static.ondacero.es/img/plantilla_png_grande.jpg" group-title="Radios" tvg-name="Onda Cero"
+https://live-audio.ondacero.es/radio/ondacero/master.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-logo="http://static-1.ivoox.com/radios/0/4/0/3/6371460973040_XXL.jpg" group-title="Radios" tvg-name="COPE"
+https://flucast-b05-02.flumotion.com/cope/net2.mp3
+
+#EXTINF:-1 tvg-id="16" tvg-logo="https://play-lh.googleusercontent.com/4_7_4vTd1xleWVVPtGrlzh2WEGy-PWKNxAcJKY7To31fV6Pr63jBo8xU6niSwc1xGDu_" group-title="Radios" tvg-name="Radio MARCA"
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC_SC
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://www.emisorasmusicales.net/wp-content/uploads/2021/05/Costa.png" group-title="Radios" tvg-name="Costa FM"
+https://grupocostafm.es/listen/costafm/1
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://pbs.twimg.com/profile_images/1383780884541689864/yNomP4tm_400x400.png" group-title="Radios" tvg-name="Drum N Bass Radio"
+https://antares.dribbcast.com/proxy/dave1?mp=/stream
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://play-lh.googleusercontent.com/pKUFSCjEWIV5AjPhGp98df_ZdKK-Jl3Xy8-tVBZfGmcHc0f_2DRIiG5Sj29Zy7KQpyQ" group-title="Radios" tvg-name="Valencia Radio Remember"
+https://stream-46.zeno.fm/npdaawnfh1duv?zs=jaXQi2LATUqgL_l15Goa2w
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/K6RuWqjxCE.png" group-title="Radios" tvg-name="Loca FM Remember"
+http://s02.fjperezdj.com:8035/live
+
+#EXTINF:-1 tvg-id="21" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Z5nFSCPARH.png" group-title="Radios" tvg-name="Loca FM Dance"
+http://s02.fjperezdj.com:8025/live
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Vj8Nck7gxS.png" group-title="Radios" tvg-name="Loca FM Trance"
+http://s02.fjperezdj.com:8055/live
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/75/30/34196/1/c300.png" group-title="Radios" tvg-name="Loca FM Drum N Bass"
+http://s02.fjperezdj.com:8065/live
+
+#EXTINF:-1 tvg-id="23" tvg-logo="https://www.uoc.edu/portal/_resources/common/imatges/universitat/organitzacio/espai-rector/mitjans/catalunya-radio.png" group-title="Radios" tvg-name="Catalunya Radio"
+https://directes-radio-int.ccma.cat/live-content/catalunya-radio-hls/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/urjccVZ9Yj.jpg" group-title="Radios" tvg-name="Hot FM Radio"
+https://streaming.broadcastradio.com:11815/hotfm962
+
+#EXTINF:-1 tvg-id="38" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9wJzyNpEpj7MOnr1Oklt7-eTOk7eBip7JbqM9PyQ=s900-c-k-c0x00ffffff-no-rj" group-title="TV" tvg-name="Planeta Junior TV"
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-logo="https://i0.wp.com/motivafm.es/wp-content/uploads/2020/04/motiva.png?fit=1000%2C1000&ssl=1" group-title="TV" tvg-name="Motiva FM"
+https://stream.mediasector.es:8120/motiva.mp3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
