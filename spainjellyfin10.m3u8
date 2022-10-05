@@ -1,5 +1,8 @@
 #TV
 
+#EXTINF:-1 tvg-id="joriems" tvg-name="joriems ES| M+ LIGA DE CAMPEONES FHD" tvg-logo="https://pbs.twimg.com/profile_images/744941502678339584/Dg8cykY0_400x400.jpg" group-title="EU | SPAIN FHD",joriems ES| M+ LIGA DE CAMPEONES FHD
+http://tv365.me:900/5140733881/6786337208/187582
+
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN FHD",ES| M+ LIGA DE CAMPEONES FHD
 http://etc12.xyz:900/5140733881/6786337208/187582
 

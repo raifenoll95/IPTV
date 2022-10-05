@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="joriems">
+    <display-name lang="es">joriems ES| M+ LIGA DE CAMPEONES FHD</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
   <channel id="mligadecampeones.es">
     <display-name lang="es">ES| M+ LIGA DE CAMPEONES FHD</display-name>
     <url>http://www.plus.es</url>
