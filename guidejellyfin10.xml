@@ -1,37 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="joriems">
-    <display-name lang="es">joriems ES| M+ LIGA DE CAMPEONES FHD</display-name>
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="mligadecampeones.es">
-    <display-name lang="es">ES| M+ LIGA DE CAMPEONES FHD</display-name>
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="mligadecampeones1.es">
-    <display-name lang="es">ES| M+ LIGA DE CAMPEONES 1 FHD</display-name>
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="mligadecampeones2.es">
-    <display-name lang="es">ES| M+ LIGA DE CAMPEONES 2 FHD</display-name>
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="2hd">
-    <display-name lang="es">ES| M+ LIGA DE CAMPEONES 3 FHD</display-name>
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="mlaliga9.es">
-    <display-name lang="es">ES| M+ LIGA DE CAMPEONES 4 FHD</display-name>
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="sasasas">
-    <display-name lang="es">ES| M+ LIGA DE Campeones 5 FHD</display-name>
-    <url>http://www.plus.es</url>
-  </channel>
-  <channel id="dsdsds">
-    <display-name lang="es">ES| M+ LIGA DE Campeones 6 FHD</display-name>
-    <url>http://www.plus.es</url>
-  </channel>
   <channel id="NEOX FHD">
     <display-name lang="es">NEOX FHD</display-name>
     <url>http://www.plus.es</url>
