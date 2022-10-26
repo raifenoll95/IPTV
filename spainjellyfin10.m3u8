@@ -6,7 +6,8 @@ http://ott-serveur.com:8000/465693822461542/418018673078402/30096
 #EXTINF:-1 tvg-id="42" tvg-name="ES: M. LaLiga HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" group-title="|EU| ESPAÑA DEPORTES",ES: M. LaLiga HD
 http://ott-serveur.com:8000/465693822461542/418018673078402/149070
 
-
+#EXTINF:-1 tvg-id="43" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="|EU| ESPAÑA DEPORTES",ES: LIGA CAMPEONES
+http://ott-serveur.com:8000/465693822461542/418018673078402/30025
 
 #Radios
 
