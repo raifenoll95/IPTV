@@ -344,4 +344,8 @@
     <display-name lang="es">43</display-name>
     <url>http://www.plus.es</url>
   </channel>
+  <channel id="44">
+    <display-name lang="es">|EU| ESPAÑA DEPORTES</display-name>
+    <url>http://www.plus.es</url>
+  </channel>
 </tv>
