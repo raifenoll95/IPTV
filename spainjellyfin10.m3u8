@@ -12,7 +12,10 @@ http://ott-serveur.com:8000/465693822461542/418018673078402/23807
 #EXTINF:-1 tvg-id="44" tvg-name="BEIN SPORTS 2 FULLHD" tvg-logo="http://178.33.72.149/logo/FR/bein%20sport%20FR%202%20fullhd.png" group-title="|EU| FRANCE SPORTS",BEIN SPORTS 2 FULLHD
 http://ott-serveur.com:8000/465693822461542/418018673078402/23806
 
-#EXTINF:-1 tvg-id="45" tvg-name="ES: Footters HD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: Footters HD
+#EXTINF:-1 tvg-id="45" tvg-name="BEIN SPORTS 3 FULLHD" tvg-logo="http://178.33.72.149/logo/FR/bein%20sport%20FR%203%20fullhd.png" group-title="|EU| FRANCE SPORTS",BEIN SPORTS 3 FULLHD
+http://ott-serveur.com:8000/465693822461542/418018673078402/23805
+
+#EXTINF:-1 tvg-id="46" tvg-name="ES: Footters HD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: Footters HD
 http://ott-serveur.com:8000/465693822461542/418018673078402/149069
 
 #Radios
