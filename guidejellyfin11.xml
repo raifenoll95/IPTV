@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
 
+	<channel id="tenis1">
+		<display-name lang="es">tenis1</display-name>
+		<url>http://www.plus.es</url>
+	</channel>
+
+	<channel id="tenis2">
+		<display-name lang="es">tenis2</display-name>
+		<url>http://www.plus.es</url>
+	</channel>
+
 	<channel id="0">
 		<display-name lang="es">fox</display-name>
 		<url>http://www.plus.es</url>

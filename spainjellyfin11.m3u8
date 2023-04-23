@@ -1,5 +1,11 @@
 #TV
 
+#EXTINF:-1 tvg-id="tenis1" tvg-name="tenis 1" tvg-logo="https://www.vts-tenis.com/images/blog/2011/08/atp1-277x300.jpg" group-title="|EU| ESPAÑA CANALES",ES: tenis1
+https://dai.google.com/linear/hls/pa/event/Dlqr46ybTSGWGTfRWcxS0g/stream/d844693e-02af-4f53-bd83-88cd67cf8353:GRQ/master.m3u8
+
+#EXTINF:-1 tvg-id="tenis2" tvg-name="tenis 2" tvg-logo="https://www.puntodebreak.com/files/atp_5.png" group-title="|EU| ESPAÑA CANALES",ES: tenis2
+https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="0" tvg-name="ES: 24 HORAS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve_canal_24horas.jpg" group-title="|EU| ESPAÑA CANALES",ES: 24 HORAS
 http://ott-serveur.com:8000/465693822461542/418018673078402/30197
 
