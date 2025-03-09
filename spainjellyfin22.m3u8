@@ -3,7 +3,7 @@
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 
 #EXTINF:-1 tvg-id="COPE" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/cope.png" tvg-name="COPE" radio="true" group-title="Radios", COPE
-https://flucast-m04-06.flumotion.com/cope/net1.mp3
+https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3
 
 #EXTINF:-1 tvg-id="OndaCero" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/ondacero.jpg" tvg-name="Onda Cero" radio="true" group-title="Radios", Onda Cero
 https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
@@ -63,7 +63,7 @@ https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
 
 #EXTINF:-1 tvg-id="CanalFiestaRadio" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/fiesta.png" tvg-name="Canal Fiesta Radio" radio="true" group-title="Radios", Canal Fiesta Radio
-https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
+https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
 
 #EXTINF:-1 tvg-id="FlaixFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/flaix.png" tvg-name="Flaix FM" radio="true" group-title="Radios", Flaix FM
 https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
