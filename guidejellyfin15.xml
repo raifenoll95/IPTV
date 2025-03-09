@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tv generator-info-name="ChatGPT">
+    <channel id="OndaCero">
+        <display-name>Onda Cero</display-name>
+        <url>https://www.ondacero.es</url>
+    </channel>
+
+<!--     <programme start="20250309060000 +0100" stop="20250309070000 +0100" channel="OndaCero">
+        <title>Programa de Ejemplo</title>
+        <desc>Descripción del programa en Onda Cero.</desc>
+        <category>Radio</category>
+    </programme> -->
+</tv>

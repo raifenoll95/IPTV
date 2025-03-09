@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tv>
-
-	<channel id="0">
-		<display-name lang="es">Onda Cero</display-name>
-		<url>http://www.plus.es</url>
-	</channel>
-
-</tv>
