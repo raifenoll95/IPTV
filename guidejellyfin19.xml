@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="ChatGPT">
+    <channel id="CadenaSER">
+        <display-name>Cadena SER</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
+    <channel id="COPE">
+        <display-name>COPE</display-name>
+        <url>https://www.cope.es/directos/net1</url>
+    </channel>
+    <channel id="OndaCero">
+        <display-name>Onda Cero</display-name>
+        <url>https://www.ondacero.es</url>
+    </channel>
+    <channel id="RadioNacional">
+        <display-name>Radio Nacional</display-name>
+        <url>https://www.rtve.es/alacarta/live_radio_PopUp.shtml</url>
+    </channel>
+    <channel id="esRadio">
+        <display-name>esRadio</display-name>
+        <url>https://esradio.libertaddigital.com/directo.html</url>
+    </channel>
+    <channel id="Radio5RNE">
+        <display-name>Radio 5 RNE</display-name>
+        <url>https://www.rtve.es/alacarta/live_radio_PopUp.shtml</url>
+    </channel>
+    <channel id="RadioMarca">
+        <display-name>Radio Marca</display-name>
+        <url>https://www.marca.com/radio.html</url>
+    </channel>
+    <channel id="RAC1">
+        <display-name>RAC1</display-name>
+        <url>https://www.rac1.cat</url>
+    </channel>
+    <channel id="CatalunyaRadio">
+        <display-name>Catalunya Ràdio</display-name>
+        <url>https://www.ccma.cat/catradio/directe-avancat/catalunya-radio/</url>
+    </channel>
+    <channel id="CanalSurRadio">
+        <display-name>Canal Sur Radio</display-name>
+        <url>http://www.canalsur.es/radio/directos/portada-directoradio-1522742.html?directo=player_csr</url>
+    </channel>
+    <channel id="EuskadiIrratia">
+        <display-name>Euskadi Irratia</display-name>
+        <url>https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/</url>
+    </channel>
+    <channel id="RadioGalega">
+        <display-name>Radio Galega</display-name>
+        <url>http://www.crtvg.es/rg/rg-en-directo/canle/radio-galega</url>
+    </channel>
+    <channel id="LOS40">
+        <display-name>LOS40</display-name>
+        <url>https://play.los40.com/</url>
+    </channel>
+    <channel id="CadenaDial">
+        <display-name>Cadena Dial</display-name>
+        <url>https://play.cadenadial.com/</url>
+    </channel>
+    <channel id="Cadena100">
+        <display-name>Cadena 100</display-name>
+        <url>https://www.cadena100.es/</url>
+    </channel>
+    <channel id="EuropaFM">
+        <display-name>Europa FM</display-name>
+        <url>https://www.europafm.com/directo/</url>
+    </channel>
+    <channel id="RockFM">
+        <display-name>Rock FM</display-name>
+        <url>https://player.rockfm.fm/</url>
+    </channel>
+    <channel id="Radio3">
+        <display-name>Radio 3</display-name>
+        <url>https://www.rtve.es/alacarta/live_radio_PopUp.shtml</url>
+    </channel>
+    <channel id="LOS40Classic">
+        <display-name>LOS40 Classic</display-name>
+        <url>https://play.los40.com/emisora/los40_classic/</url>
+    </channel>
+    <channel id="KissFM">
+        <display-name>Kiss FM</display-name>
+        <url>https://kissfm.es/player/</url>
+    </channel>
+    <channel id="Radiole">
+        <display-name>Radiolé</display-name>
+        <url>https://play.radiole.com/</url>
+    </channel>
+    <channel id="CanalFiestaRadio">
+        <display-name>Canal Fiesta Radio</display-name>
+        <url>http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta</url>
+    </channel>
+    <channel id="FlaixFM">
+        <display-name>Flaix FM</display-name>
+        <url>https://www.flaixfm.cat/</url>
+    </channel>
+    <channel id="Flaixbac">
+        <display-name>Flaixbac</display-name>
+        <url>https://www.flaixbac.cat/</url>
+    </channel>
+    <channel id="RAC105">
+        <display-name>RAC 105</display-name>
+        <url>https://www.rac105.cat</url>
+    </channel>
+    <channel id="RadioTeleTaxi">
+        <display-name>Ràdio Tele-Taxi</display-name>
+        <url>https://www.radioteletaxi.com/reproductor/</url>
+    </channel>
+    <channel id="HitFM">
+        <display-name>Hit FM</display-name>
+        <url>https://www.hitfm.es/</url>
+    </channel>
+    <channel id="MegaStarFM">
+        <display-name>MegaStar FM</display-name>
+        <url>https://www.megastar.fm/</url>
+    </channel>
+    <channel id="MelodiaFM">
+        <display-name>Melodía FM</display-name>
+        <url>https://www.melodia-fm.com/directo/</url>
+    </channel>
+    <channel id="LocaFM">
+        <display-name>Loca FM</display-name>
+        <url>http://www.locafm.com/</url>
+    </channel>
+    <channel id="RadioClasicaRNE">
+        <display-name>Radio Clásica RNE</display-name>
+        <url>https://www.rtve.es/alacarta/live_radio_PopUp.shtml</url>
+    </channel>
+    <channel id="RadioMaria">
+        <display-name>Radio María</display-name>
+        <url>https://www.radiomaria.es/directo</url>
+    </channel>
+</tv>
