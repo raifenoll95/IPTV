@@ -94,3 +94,85 @@ https://radioclasica.rtveradio.cires21.com/radioclasica_hc.mp3
 
 #EXTINF:-1 tvg-id="RadioMaria" tvg-logo="https://graph.facebook.com/radiomaria/picture?width=200&height=200" tvg-name="Radio María" radio="true" group-title="Radios", Radio María
 http://dreamsiteradiocp.com:8060/;stream.mp3
+
+#EXTINF:-1 tvg-id="LOS40Dance" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" tvg-name="LOS40 Dance" radio="true" group-title="Radios", LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+
+#EXTINF:-1 tvg-id="LOS40Urban" tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" tvg-name="LOS40 Urban" radio="true" group-title="Radios", LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+
+#EXTINF:-1 tvg-id="DialBaladas" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" tvg-name="Dial Baladas" radio="true" group-title="Radios", Dial Baladas
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+
+#EXTINF:-1 tvg-id="DialEsencial" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743852.jpg" tvg-name="Dial Esencial" radio="true" group-title="Radios", Dial Esencial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
+
+#EXTINF:-1 tvg-id="DialLatino" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" tvg-name="Dial Latino" radio="true" group-title="Radios", Dial Latino
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3
+
+#EXTINF:-1 tvg-id="LocaFMDance" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Dance" radio="true" group-title="Radios", Loca FM Dance
+http://s02.fjperezdj.com:8025/live
+
+#EXTINF:-1 tvg-id="LocaFMRemember" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Remember" radio="true" group-title="Radios", Loca FM Remember
+http://s02.fjperezdj.com:8035/live
+
+#EXTINF:-1 tvg-id="LocaFMHouse" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM House" radio="true" group-title="Radios", Loca FM House
+http://s02.fjperezdj.com:8026/live
+
+#EXTINF:-1 tvg-id="LocaFMChillOut" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Chill out" radio="true" group-title="Radios", Loca FM Chill out
+http://s02.fjperezdj.com:8006/live
+
+#EXTINF:-1 tvg-id="LocaFMTechHouse" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Tech House" radio="true" group-title="Radios", Loca FM Tech House
+http://s02.fjperezdj.com:8046/live
+
+#EXTINF:-1 tvg-id="LocaFMTrance" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Trance" radio="true" group-title="Radios", Loca FM Trance
+http://s02.fjperezdj.com:8055/live
+
+#EXTINF:-1 tvg-id="LocaFMTechno" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Techno" radio="true" group-title="Radios", Loca FM Techno
+http://s02.fjperezdj.com:8050/live
+
+#EXTINF:-1 tvg-id="LocaFMBigRoom" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Big Room" radio="true" group-title="Radios", Loca FM Big Room
+http://s02.fjperezdj.com:8005/live
+
+#EXTINF:-1 tvg-id="LocaFMDubTechno" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Dub Techno" radio="true" group-title="Radios", Loca FM Dub Techno
+http://s02.fjperezdj.com:8066/live
+
+#EXTINF:-1 tvg-id="LocaFMHard" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Hard" radio="true" group-title="Radios", Loca FM Hard
+http://s02.fjperezdj.com:8016/live
+
+#EXTINF:-1 tvg-id="LocaFMSessions" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Sessions" radio="true" group-title="Radios", Loca FM Sessions
+http://s02.fjperezdj.com:8095/live
+
+#EXTINF:-1 tvg-id="LocaFMAmbient" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Ambient" radio="true" group-title="Radios", Loca FM Ambient
+http://s02.fjperezdj.com:8036/live
+
+#EXTINF:-1 tvg-id="LocaFMLoca80s" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca 80's" radio="true" group-title="Radios", Loca FM Loca 80's
+http://s02.fjperezdj.com:8075/live
+
+#EXTINF:-1 tvg-id="LocaFMLoca90s" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca 90's" radio="true" group-title="Radios", Loca FM Loca 90's
+http://s02.fjperezdj.com:8000/live
+
+#EXTINF:-1 tvg-id="LocaFMMelodicTechno" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Melodic Techno" radio="true" group-title="Radios", Loca FM Melodic Techno
+http://s02.fjperezdj.com:8056/live
+
+#EXTINF:-1 tvg-id="LocaFMTrap" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Trap" radio="true" group-title="Radios", Loca FM Trap
+http://s02.fjperezdj.com:8060/live
+
+#EXTINF:-1 tvg-id="LocaFMLocaPride" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Loca Pride" radio="true" group-title="Radios", Loca FM Loca Pride
+http://s02.fjperezdj.com:8070/live
+
+#EXTINF:-1 tvg-id="LocaFMIndustrial" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Industrial" radio="true" group-title="Radios", Loca FM Industrial
+http://s02.fjperezdj.com:8076/live
+
+#EXTINF:-1 tvg-id="LocaFMDrumAndBass" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Drum&Bass" radio="true" group-title="Radios", Loca FM Drum&Bass
+http://s02.fjperezdj.com:8065/live
+
+#EXTINF:-1 tvg-id="LocaFMUrban" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-name="Loca FM Urban" radio="true" group-title="Radios", Loca FM Urban
+https://locafm-live3.flumotion.com/locafm/live3.mp3
+
+#EXTINF:-1 tvg-id="ClasicaFMRadio" tvg-logo="https://graph.facebook.com/clasicafmradio/picture?width=200&height=200" tvg-name="Clásica FM Radio" radio="true" group-title="Radios", Clásica FM Radio
+https://radio.garden/api/ara/content/listen/UG3FmZly/channel.mp3
+
+#EXTINF:-1 tvg-id="digitalHitsFM" tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" tvg-name="digitalHits FM" radio="true" group-title="Radios", digitalHits FM
+http://digitalhits.frilab.com:8000/digitalhits;
+
