@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CadenaSER" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/ser.png" tvg-name="Cadena SER" radio="true" group-title="Radios", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+
+#EXTINF:-1 tvg-id="COPE" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/cope.png" tvg-name="COPE" radio="true" group-title="Radios", COPE
+https://flucast-m04-06.flumotion.com/cope/net1.mp3
+
+#EXTINF:-1 tvg-id="OndaCero" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/ondacero.jpg" tvg-name="Onda Cero" radio="true" group-title="Radios", Onda Cero
+https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
+
+#EXTINF:-1 tvg-id="RadioNacional" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/rne.jpg" tvg-name="Radio Nacional" radio="true" group-title="Radios", Radio Nacional
+https://rne.rtveradio.cires21.com/rne_hc.mp3
+
+#EXTINF:-1 tvg-id="esRadio" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/esradio.png" tvg-name="esRadio" radio="true" group-title="Radios", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac
+
+#EXTINF:-1 tvg-id="Radio5RNE" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/radio5.jpg" tvg-name="Radio 5 RNE" radio="true" group-title="Radios", Radio 5 RNE
+https://radio5.rtveradio.cires21.com/radio5_hc.mp3
+
+#EXTINF:-1 tvg-id="RadioMarca" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/radiomarca.png" tvg-name="Radio Marca" radio="true" group-title="Radios", Radio Marca
+https://radiomarca.streaming-pro.com:8031/radiomarca.mp3
+
+#EXTINF:-1 tvg-id="RAC1" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/rac1.png" tvg-name="RAC1" radio="true" group-title="Radios", RAC1
+https://streaming.rac1.cat/
+
+#EXTINF:-1 tvg-id="CatalunyaRadio" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/catalunya.png" tvg-name="Catalunya Ràdio" radio="true" group-title="Radios", Catalunya Ràdio
+https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSurRadio" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/sur.jpg" tvg-name="Canal Sur Radio" radio="true" group-title="Radios", Canal Sur Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="EuskadiIrratia" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/euskadi.png" tvg-name="Euskadi Irratia" radio="true" group-title="Radios", Euskadi Irratia
+https://etbaeirratinogeo-lh.akamaihd.net/i/EIRRATIA_1@594816/master.m3u8
+
+#EXTINF:-1 tvg-id="RadioGalega" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/galega.png" tvg-name="Radio Galega" radio="true" group-title="Radios", Radio Galega
+https://wecast-m01-03.flumotion.com/radiogalega/live.mp3
+
+#EXTINF:-1 tvg-id="LOS40" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/los40.jpg" tvg-name="LOS40" radio="true" group-title="Radios", LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+
+#EXTINF:-1 tvg-id="CadenaDial" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/dial.jpg" tvg-name="Cadena Dial" radio="true" group-title="Radios", Cadena Dial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+
+#EXTINF:-1 tvg-id="Cadena100" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/100.png" tvg-name="Cadena 100" radio="true" group-title="Radios", Cadena 100
+https://cadena100-cope.flumotion.com/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EuropaFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/europafm.jpg" tvg-name="Europa FM" radio="true" group-title="Radios", Europa FM
+https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+
+#EXTINF:-1 tvg-id="RockFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/rockfm.png" tvg-name="Rock FM" radio="true" group-title="Radios", Rock FM
+https://rockfm-cope.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio3" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/radio3.jpg" tvg-name="Radio 3" radio="true" group-title="Radios", Radio 3
+https://radio3.rtveradio.cires21.com/radio3_hc.mp3
+
+#EXTINF:-1 tvg-id="LOS40Classic" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/classic.png" tvg-name="LOS40 Classic" radio="true" group-title="Radios", LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+
+#EXTINF:-1 tvg-id="KissFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/kissfm.jpg" tvg-name="KissFM" radio="true" group-title="Radios", KissFM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+
+#EXTINF:-1 tvg-id="Radiole" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/radiole.png" tvg-name="Radiolé" radio="true" group-title="Radios", Radiolé
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
+
+#EXTINF:-1 tvg-id="CanalFiestaRadio" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/fiesta.png" tvg-name="Canal Fiesta Radio" radio="true" group-title="Radios", Canal Fiesta Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="FlaixFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/flaix.png" tvg-name="Flaix FM" radio="true" group-title="Radios", Flaix FM
+https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
+
+#EXTINF:-1 tvg-id="Flaixbac" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/flaixbac.png" tvg-name="Flaixbac" radio="true" group-title="Radios", Flaixbac
+https://flaixbac.streaming-pro.com:8007/flaixbac.mp3
+
+#EXTINF:-1 tvg-id="RAC105" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/rac105.jpg" tvg-name="RAC 105" radio="true" group-title="Radios", RAC 105
+https://streaming.rac105.cat/
+
+#EXTINF:-1 tvg-id="RadioTeleTaxi" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/teletaxi.png" tvg-name="Ràdio Tele-Taxi" radio="true" group-title="Radios", Ràdio Tele-Taxi
+https://radiott-web.streaming-pro.com:6103/radiott.mp3
+
+#EXTINF:-1 tvg-id="HitFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/hitsfm.jpg" tvg-name="Hit FM" radio="true" group-title="Radios", Hit FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+
+#EXTINF:-1 tvg-id="MegaStarFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/megastar.jpg" tvg-name="MegaStar FM" radio="true" group-title="Radios", MegaStar FM
+https://megastar-cope.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MelodiaFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/melofiafm.jpg" tvg-name="Melodía FM" radio="true" group-title="Radios", Melodía FM
+https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8
+
+#EXTINF:-1 tvg-id="LocaFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/locafm.jpg" tvg-name="Loca FM" radio="true" group-title="Radios", Loca FM
+https://locafm-live1.flumotion.com/locafm/live1.mp3
+
+#EXTINF:-1 tvg-id="RadioMaria" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/radiomaria.jpg" tvg-name="Radio María" radio="true" group-title="Radios", Radio María
+http://dreamsiteradiocp.com:8060/;stream.mp3
+
+#EXTINF:-1 tvg-id="LOS40Dance" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/dance.jpg" tvg-name="LOS40 Dance" radio="true" group-title="Radios", LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+
+#EXTINF:-1 tvg-id="LOS40Urban" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/urban.jpg" tvg-name="LOS40 Urban" radio="true" group-title="Radios", LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+
+#EXTINF:-1 tvg-id="DialBaladas" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/baladas.jpg" tvg-name="Dial Baladas" radio="true" group-title="Radios", Dial Baladas
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+
+#EXTINF:-1 tvg-id="DialEsencial" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/esencial.jpg" tvg-name="Dial Esencial" radio="true" group-title="Radios", Dial Esencial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
+
+#EXTINF:-1 tvg-id="DialLatino" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/dial%20latino.jpg" tvg-name="Dial Latino" radio="true" group-title="Radios", Dial Latino
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3
+
+#EXTINF:-1 tvg-id="ClasicaFMRadio" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/clasica.jpg" tvg-name="Clásica FM Radio" radio="true" group-title="Radios", Clásica FM Radio
+https://radio.garden/api/ara/content/listen/UG3FmZly/channel.mp3
+
+#EXTINF:-1 tvg-id="digitalHitsFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/hitsfm.jpg" tvg-name="digitalHits FM" radio="true" group-title="Radios", digitalHits FM
+http://digitalhits.frilab.com:8000/digitalhits;
+
