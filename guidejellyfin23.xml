@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="ChatGPT">
+    <channel id="La1">
+        <display-name>La 1</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
     <channel id="CadenaSER">
         <display-name>Cadena SER</display-name>
         <url>https://play.cadenaser.com/</url>

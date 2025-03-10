@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="La1" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/la1.jpg" tvg-name="La 1" radio="true" group-title="Radios", La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
+
 #EXTINF:-1 tvg-id="CadenaSER" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/ser.png" tvg-name="Cadena SER" radio="true" group-title="Radios", Cadena SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 
@@ -24,10 +28,10 @@ https://radiomarca.streaming-pro.com:8031/radiomarca.mp3
 https://streaming.rac1.cat/
 
 #EXTINF:-1 tvg-id="CatalunyaRadio" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/catalunya.png" tvg-name="Catalunya Ràdio" radio="true" group-title="Radios", Catalunya Ràdio
-https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-id="CanalSurRadio" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/sur.jpg" tvg-name="Canal Sur Radio" radio="true" group-title="Radios", Canal Sur Radio
-https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/master.m3u8
+https://rtva-live-radio.flumotion.com/rtva/csrsev.mp3
 
 #EXTINF:-1 tvg-id="EuskadiIrratia" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/euskadi.png" tvg-name="Euskadi Irratia" radio="true" group-title="Radios", Euskadi Irratia
 https://etbaeirratinogeo-lh.akamaihd.net/i/EIRRATIA_1@594816/master.m3u8
@@ -45,7 +49,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
 https://cadena100-cope.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-id="EuropaFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/europafm.jpg" tvg-name="Europa FM" radio="true" group-title="Radios", Europa FM
-https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+https://atres-live.europafm.com/live/europafm/master.m3u8
 
 #EXTINF:-1 tvg-id="RockFM" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/rockfm.png" tvg-name="Rock FM" radio="true" group-title="Radios", Rock FM
 https://rockfm-cope.flumotion.com/playlist.m3u8
