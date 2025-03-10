@@ -36,6 +36,14 @@
         <display-name>Mega</display-name>
         <url>https://play.cadenaser.com/</url>
     </channel>
+    <channel id="ClanTV">
+        <display-name>Clan TV</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
+    <channel id="TDP">
+        <display-name>TDP</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
     <channel id="CadenaSER">
         <display-name>Cadena SER</display-name>
         <url>https://play.cadenaser.com/</url>

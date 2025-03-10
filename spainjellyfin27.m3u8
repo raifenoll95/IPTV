@@ -27,6 +27,12 @@ https://atres-live.atresmedia.com/a803cdfa4085649be3e3dd1532c7da7b09acb851_ES_17
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/mega.png" tvg-name="Mega" radio="true" group-title="Radios", Mega
 https://atres-live.atresmedia.com/838814d6c1106e3076134966b0d3f8b52e73fee5_ES_1741615102_1741643842/h264/live/mega/master.m3u8
 
+#EXTINF:-1 tvg-id="ClanTV" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/clan.jpg" tvg-name="Clan TV" radio="true" group-title="Radios", Clan TV
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_720.m3u8
+
+#EXTINF:-1 tvg-id="TDP" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/tdp.png" tvg-name="TDP" radio="true" group-title="Radios", TDP
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8
+
 #EXTINF:-1 tvg-id="CadenaSER" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/ser.png" tvg-name="Cadena SER" radio="true" group-title="Radios", Cadena SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 
