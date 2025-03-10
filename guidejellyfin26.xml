@@ -8,6 +8,34 @@
         <display-name>2 (TVE)</display-name>
         <url>https://play.cadenaser.com/</url>
     </channel>
+    <channel id="3">
+        <display-name>Antena 3</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
+    <channel id="4">
+        <display-name>Cuatro</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
+    <channel id="5">
+        <display-name>Cuatro</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
+    <channel id="6">
+        <display-name>La Sexta</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
+    <channel id="Neox">
+        <display-name>Neox</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
+    <channel id="Nova">
+        <display-name>Nova</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
+    <channel id="Mega">
+        <display-name>Mega</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
     <channel id="CadenaSER">
         <display-name>Cadena SER</display-name>
         <url>https://play.cadenaser.com/</url>
