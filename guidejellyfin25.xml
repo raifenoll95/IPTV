@@ -4,6 +4,10 @@
         <display-name>1 (TVE)</display-name>
         <url>https://play.cadenaser.com/</url>
     </channel>
+    <channel id="2">
+        <display-name>2 (TVE)</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
     <channel id="CadenaSER">
         <display-name>Cadena SER</display-name>
         <url>https://play.cadenaser.com/</url>
