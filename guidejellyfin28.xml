@@ -44,6 +44,10 @@
         <display-name>TDP</display-name>
         <url>https://play.cadenaser.com/</url>
     </channel>
+    <channel id="Andalucia">
+        <display-name>Canal Andalucia</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
     <channel id="CadenaSER">
         <display-name>Cadena SER</display-name>
         <url>https://play.cadenaser.com/</url>
