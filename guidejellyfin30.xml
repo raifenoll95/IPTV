@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="ChatGPT">
+    <channel id="nickelodeon">
+        <display-name>Nickelodeon</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
     <channel id="1">
         <display-name>1 (TVE)</display-name>
         <url>https://play.cadenaser.com/</url>
