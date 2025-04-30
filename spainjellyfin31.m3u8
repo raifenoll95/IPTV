@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="futbol" tvg-logo="https://media.rpctv.com/p/a52634d2d5accfb8ec2e4e4011f78aa6/adjuntos/314/imagenes/018/855/0018855659/1200x675/smart/fc-barcelona-vs-inter.png" tvg-name="Futbol" radio="true" group-title="Radios", Futbol
+https://free.storehd.xyz/hls/tnt1-uk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI1IDc6MDM6MzggUE0maGFzaF92YWx1ZT1uWWdiS2VUL1lpbVJ4Z1BkSzE3SFB3PT0mdmFsaWRtaW51dGVzPTI4MA==
+
 #EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://raw.githubusercontent.com/raifenoll95/IPTV/refs/heads/main/canales/nick.png" tvg-name="Nickelodeon" radio="true" group-title="Radios", Nickelodeon
 http://dalefamilynas.synology.me:8409/iptv/channel/2.ts
 

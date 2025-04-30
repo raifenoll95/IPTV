@@ -4,6 +4,10 @@
         <display-name>Nickelodeon</display-name>
         <url>https://play.cadenaser.com/</url>
     </channel>
+    <channel id="futbol">
+        <display-name>Futbol</display-name>
+        <url>https://play.cadenaser.com/</url>
+    </channel>
     <channel id="1">
         <display-name>1 (TVE)</display-name>
         <url>https://play.cadenaser.com/</url>
